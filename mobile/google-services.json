@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296609854871",
+    "firebase_url": "https://swiss-ski-school.firebaseio.com",
+    "project_id": "swiss-ski-school",
+    "storage_bucket": "swiss-ski-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296609854871:android:11c834d7f890d7d4",
+        "android_client_info": {
+          "package_name": "ch.epfl.esl.sportstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296609854871-eldgsarkhk3ctln0275f04r11be4bcs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.epfl.esl.sportstracker",
+            "certificate_hash": "4afe55f4d6f94bc68528ea57f67eb6fc9460d5b5"
+          }
+        },
+        {
+          "client_id": "296609854871-vvld0ba320bsumeltp23qn5bbf6silr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxGOx95S9QNRanc3256qJ6T3QDim3ng4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296609854871-vvld0ba320bsumeltp23qn5bbf6silr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

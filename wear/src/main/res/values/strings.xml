@@ -1,0 +1,9 @@
+<resources>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="welcome_name">Welcome %s!</string>
+    <string name="ready_for_training">Ready for training</string>
+    <string name="alarm">ALARM</string>
+</resources>

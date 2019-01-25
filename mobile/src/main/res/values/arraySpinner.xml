@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>Beginner 1</item>
+        <item>Beginner 2</item>
+        <item>Intermediate 1</item>
+        <item>Intermediate 2</item>
+        <item>Advance 1</item>
+        <item>Advance 2</item>
+    </string-array>
+</resources>

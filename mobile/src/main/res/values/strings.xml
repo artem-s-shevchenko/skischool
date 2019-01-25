@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swiss Ski School</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="emergency_signal">Click image to send emergency signal</string>
+    <string name="smartwatch">Smartwatch</string>
+    <string name="hr_belt">HR belt</string>
+    <string name="image_activity">Image activity</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+    <string name="skiing">Skiing</string>
+    <string name="climbing">Climbing</string>
+    <string name="user_profile_image">User profile image</string>
+    <string name="phone_num">Phone number</string>
+    <string name="phone_num_">Phone number:</string>
+    <string name="name">Username</string>
+    <string name="address">Username:</string>
+    <string name="level">Level:</string>
+    <string name="username_text">Email :</string>
+    <string name="password_text">Password:</string>
+    <string name="clear_form">Clear form</string>
+    <string name="delete_history">Delete history</string>
+    <string name="save_profile">Save profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="not_registered_yet">You are not registered yet!</string>
+
+    <string name="student_type">Ski Student</string>
+    <string name="ski_station">Verbier</string>
+    <!--ski/snowboard learner/teacher OR just manager-->
+
+    <string name="tab_title_main_fragment">Member card</string>
+    <string name="tab_title_my_profile">My Profile</string>
+    <string name="tab_title_my_schedule">My Schedule</string>
+    <string name="ToastEmail">Please enter a correct email adress!</string>
+    <string name="ToastPassword">Password should contain min of 6 characters and at least 1 lowercase, 1 uppercase and 1 numeric value</string>
+    <string name="ToastPhone">Please enter a valid phone number</string>
+    <string name="ErrorEmail">Password should contain min of 6 characters and at least 1 lowercase, 1 uppercase and 1 numeric value</string>
+    <string name="toastUsername">Please enter a valid username</string>
+    <string name="missing_picture">Missing Picture</string>
+    <string name="photo_upload_failed">Photo Upload Failed</string>
+    <string name="user_action">user action</string>
+    <string name="sign_out">Sign out</string>
+    <string name="title_activity_view_student">viewStudent</string>
+    <string name="username">Username :</string>
+    <string name="level_text">Level :</string>
+    <string name="stop">Stop</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="heart_rate">Heart rate</string>
+    <string name="emergency">EMERGENCY</string>
+    <string-array name="exlist">
+        <item>Skying in a flat area</item>
+        <item>Skying downhill</item>
+        <item>Reducing speed/Stopping</item>
+        <item>Turning</item>
+        <item>Jumping</item>
+    </string-array>
+</resources>
